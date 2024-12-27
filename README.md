@@ -18,3 +18,5 @@
 //The game will use a simple text-based interface.
 //The game will be able to handle multiple locations and interactions.
 //The game will be able to handle saving and loading progress.
+
+'Enjoy'
